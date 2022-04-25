@@ -1,0 +1,109 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+.img{
+    width: 27%;
+    height: 10%;
+    font-size: 5px;
+    font-weight: 31px;
+}
+
+.logo{
+    margin-left: 288px;
+    margin-top: 150px;
+}
+.logo p {
+    width: 550px;
+    margin-left: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -39px;
+    font-weight: 85px;
+    font-size: 31px;
+
+}
+.profil{
+    height: 100vh;
+    background-color: #f0f2f5;
+    width: 100%;
+    position: fixed;
+  
+}
+
+.login{
+    background-color: #fff;
+    float: right;
+    margin-right: 220px;
+    margin-top: -220px;
+    width: 320px;
+    height: 270px;
+    padding: 10px 5px 20px 5px;
+    border-radius: 11px;
+    box-shadow: 5px 5px 9px -4px;
+}
+input[type='text'],input[type='password']{
+    display: block;
+    background-color: #fff;
+    margin: auto;
+    width: 200px;
+    border: 1.5px solid rgb(200 200 200);
+    padding: 10px 45px;
+    border-radius: 8px;
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 15px;
+}
+button{
+    background-color: #1877f2;
+    width: 285px;
+    height: 36px;
+    color: white;
+    display: block;
+    margin: auto;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px 0;
+    border-radius: 5px;
+}
+button :hover{
+    color: #42b72a;
+    
+}
+.forget{
+    display: block;
+   width: 150px;
+    margin: auto;
+    margin-left: 100px;
+}
+.bosluq{
+    margin-top: 16px;
+    border-bottom-style: none;
+    color: black;
+    font-size: 10px;
+
+}
+.create{
+    width: 200px;
+    background-color: #42b72a;
+    height: 43px;
+    margin: auto;
+
+}
+.son{
+    margin-top: 120px;
+    margin-left: 970px;
+}
+.Translate ul li{
+color: black;
+    text-align: center;
+    display: inline-block;
+    text-align: center;
+    margin: 5px 10px;
+    margin-left: 10
+   
+}
+.Translate{
+    text-align: center;
+}
